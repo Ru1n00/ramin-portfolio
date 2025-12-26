@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+dist.zip
+.env.local
+.vscode/
+.env.production
+.env.development
+.env.test
