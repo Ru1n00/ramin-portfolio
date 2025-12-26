@@ -180,7 +180,7 @@ This project is open source and available under the MIT License.
 **Md. Ruhul Amin**
 - Email: ruhul.amin.tnt@gmail.com
 - GitHub: [ru1n00](https://github.com/ru1n00)
-- Codeforces: [ru1n00](https://codeforces.com/ru1n00)
+- Codeforces: [ru1n00](https://codeforces.com/profile/ru1n00)
 - Location: Dhaka, Bangladesh
 
 ---
