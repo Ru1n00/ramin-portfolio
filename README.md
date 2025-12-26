@@ -2,6 +2,12 @@
 
 A modern, interactive portfolio website showcasing my professional experience, skills, projects, and achievements as a Software Engineer. Built with cutting-edge web technologies and featuring stunning 3D visualizations powered by Three.js.
 
+## 🌐 Live Demo
+
+**[View Live Portfolio →](https://ruhulamin.eruditech.com)**
+
+Experience the interactive 3D backgrounds, smooth animations, and responsive design in action!
+
 ## ✨ Features
 
 ### 🎨 Interactive 3D Backgrounds
